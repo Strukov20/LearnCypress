@@ -40,7 +40,7 @@
 //     cy.get('*[class^="card"]');
 // });
 
-
+//try
 
 it('using get with Find and Eq', () => {
     cy.visit("https://next.privat24.ua/deposit/open");
